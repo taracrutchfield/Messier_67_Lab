@@ -1,0 +1,14 @@
+{
+    "path_raw":"Data/Raw",
+    "bias":{"path":"Bias"},
+    "dark":{"path":"Dark"},
+    "flat":{
+        "B":"Flat/B",
+        "V":"Flat/V"
+    },
+    "science":{
+        "+2 2711":{"band":["B","V"],"path":["Sci/+2 2711/B","Sci/+2 2711/V"]},
+        "M67":{"band":["B","V"],"path":["Sci/M67/B","Sci/M67/V"]}
+    },
+    "path_clean":"Data/Clean"
+    }
